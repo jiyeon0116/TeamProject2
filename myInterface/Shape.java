@@ -12,7 +12,7 @@ public interface Shape
     double getArea();
     default public void redraw()
     {
-         System.out.print("--- 다시 그림니다. ");
+         System.out.print("--- 다시 그립니다. ");
          draw();
     }
 }
