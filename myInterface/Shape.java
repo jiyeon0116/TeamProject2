@@ -1,24 +1,5 @@
 package myInterface;
-<<<<<<< HEAD
 
-
-/**
- * Write a description of interface Shape here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
-public interface Shape
-{
-    /**
-     * An example of a method header - replace this comment with your own
-     *
-     * @param  y a sample parameter for a method
-     * @return   the result produced by sampleMethod
-     */
-    int sampleMethod(int y);
-}
-=======
 /**
  * 도형의 면적을 구해주는 interface.
  *
@@ -37,4 +18,3 @@ public interface Shape
     }
 }
 
->>>>>>> d00503793867461ec25092fb1cd4d4c4e2803571
