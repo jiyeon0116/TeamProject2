@@ -1,5 +1,6 @@
 package base;
 
+
  /*
   * 
   * 
@@ -7,15 +8,19 @@ package base;
   * @version (a version number or a date)
   */
 public class Circle implements Shape
+
+
 {
     private int x;
     private int y;
     private int radius;
-    
+
     public Circle(int x, int y, int radius){
         this.x = x;
         this.y = y;
+        this.radius = radius;
     }
+
     
     public void draw(){
     }
@@ -23,4 +28,14 @@ public class Circle implements Shape
     }
     public void getArea(){
     }
-}
+
+
+    public boolean equals(Circle cir ){
+        if(){
+            return true;
+        }
+        else
+            return false;
+    }
+}   
+
