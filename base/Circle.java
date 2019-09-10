@@ -1,5 +1,6 @@
 package base;
 
+<<<<<<< HEAD
 
  /*
   * 
@@ -10,6 +11,15 @@ package base;
 public class Circle implements Shape
 
 
+=======
+/*
+ * 
+ * 
+ * @author ((2018315036 양유석 , 2018315030 이가영 , 2018315022 이지연))
+ * @version (a version number or a date)
+ */
+public class Circle
+>>>>>>> e813cdf49c2ddb4d34f1a2942fb57ccb535e478f
 {
     private int x;
     private int y;
@@ -21,6 +31,7 @@ public class Circle implements Shape
         this.radius = radius;
     }
 
+<<<<<<< HEAD
     
     public void draw(){
     }
@@ -39,3 +50,13 @@ public class Circle implements Shape
     }
 }   
 
+=======
+    public boolean equals(Circle cir ){
+        if(){
+            return true;
+        }
+        else
+            return false;
+    }
+}   
+>>>>>>> e813cdf49c2ddb4d34f1a2942fb57ccb535e478f
