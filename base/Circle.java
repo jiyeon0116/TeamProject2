@@ -1,7 +1,7 @@
 package base;
 import myInterface.Shape;
 /**
- * 생성자 생성 및 boolean 조건 작성
+ * 원의 위치와 반지름을 받아 원을 그리고 넓이를 알려주는 클래스
  *`
  * @author (2018315036 양유석 , 2018315030 이가영 , 2018315022 이지연)
  * @version (19.09.10)
