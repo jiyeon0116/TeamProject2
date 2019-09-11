@@ -2,10 +2,10 @@ package main;
 import base.Circle;
 
 /**
- * Write a description of class MyApp here.
+ * 같은원 OR 다른원인지 판단하는 Method.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (2018315036 양유석 , 2018315030 이가영 , 2018315022 이지연)
+ * @version (19.09.10)
  */
 public class MyApp{
     public static void main(String[] args){
