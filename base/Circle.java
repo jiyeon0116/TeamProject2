@@ -19,7 +19,7 @@ public class Circle
     }
 
     public boolean equals(Circle cir ){
-        if(x== cir.x && y== cir.y){
+        if(this.x == cir.x && this.y == cir.y){
             return true;
         }
         else
