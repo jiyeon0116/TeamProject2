@@ -19,12 +19,11 @@ public class Circle implements Shape
     }
 
     public void draw(){
+        System.out.println("반지름이 "+radius+"인 원입니다.");
     }
-    public void redraw(){
-    }
+
     public double getArea(){
-        int a = 0;
-        return a;
+        return radius*radius*PI;
     }
 
     public boolean equals(Circle cir ){
